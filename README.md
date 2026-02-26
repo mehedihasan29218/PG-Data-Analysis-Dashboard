@@ -23,7 +23,7 @@ PG usage is a key cost driver for tower companies, making accurate tracking and 
 ⚙️ Dashboard Features
    Interactive hourly time analysis
    Vendor-wise and site-wise views
-   Drill-down and filtering capabilities
+   Drill-through and filtering capabilities
    Management-friendly visual design
 
 📂 Data Source
